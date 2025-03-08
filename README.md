@@ -5,3 +5,4 @@ From a dictionary of given keywords anayse and rank most popular terms across sc
 
 Planned features:
 Analyse and visualize popular terms trend over time.
+Replace fixed keywords/terms dictionary with in memory analysis. Dynamically find and rank technical word sets for nuianced and more useful ranking insights.
